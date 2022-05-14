@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/the-ad-hoc-chef/static/css/main.8ac31057.css",
-    "main.js": "/the-ad-hoc-chef/static/js/main.a77280cd.js",
+    "main.js": "/the-ad-hoc-chef/static/js/main.a92d17cc.js",
     "static/media/1.png": "/the-ad-hoc-chef/static/media/1.e0ffcee818b13a130fb7.png",
     "index.html": "/the-ad-hoc-chef/index.html",
     "main.8ac31057.css.map": "/the-ad-hoc-chef/static/css/main.8ac31057.css.map",
-    "main.a77280cd.js.map": "/the-ad-hoc-chef/static/js/main.a77280cd.js.map"
+    "main.a92d17cc.js.map": "/the-ad-hoc-chef/static/js/main.a92d17cc.js.map"
   },
   "entrypoints": [
     "static/css/main.8ac31057.css",
-    "static/js/main.a77280cd.js"
+    "static/js/main.a92d17cc.js"
   ]
 }
